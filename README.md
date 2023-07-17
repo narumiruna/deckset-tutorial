@@ -1,3 +1,20 @@
+autoscale: true
+build-lists: false
+slidenumbers: true
+footer:
+theme: Plain Jane, 1
+text: iansui
+text-strong: iansui
+text-emphasis: iansui
+header: iansui
+header-strong: iansui
+header-emphasis: iansui
+slidenumber-style: iansui
+footer-style: iansui
+code: Hack Nerd Font Mono
+quote: iansui
+quote-author: iansui
+
 # Deckset Tutorial
 ## How to use Markdown to make beautiful presentations
 
